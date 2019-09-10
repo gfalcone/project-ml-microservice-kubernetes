@@ -2,6 +2,8 @@
 
 This project contains everything needed for the project-ml-microservice-kubernetes Udacity project !
 
+[![CircleCI](https://circleci.com/gh/gfalcone/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://circleci.com/gh/gfalcone/project-ml-microservice-kubernetes/tree/master)
+
 ## How to run python scripts
 
 ### Through Docker
